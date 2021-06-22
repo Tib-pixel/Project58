@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background: linear-gradient(#ADD8E6 0%, #90ee90 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 350px;
+    height: 300px;
+    text-align:center;
+}
+
+h1 {
+    text-shadow: 2px 2px #ADD8E6;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: 17px;
+}
+
+.menu {
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+li {
+    float: left;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+ul {
+    background-color: #dddddd;
+}
+
+#welcome {
+    font-family: 'Oswald', sans-serif;
+}
